@@ -1,4 +1,4 @@
-# WuzzufServey
+# WuzzufSurvey
 Wuzzuf dataset survey    
 ## Overview:
 This project is a cleaning and analysis to Wuzzuf survey using Java, Spark and XChart
